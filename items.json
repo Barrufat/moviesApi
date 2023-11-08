@@ -2,6 +2,7 @@
   "films": [
     {
       "id": 1,
+      "watched": false,
       "Title": "Avatar",
       "Year": "2009",
       "Rated": "PG-13",
@@ -32,6 +33,7 @@
     },
     {
       "id": 2,
+      "watched": false,
       "Title": "I Am Legend",
       "Year": "2007",
       "Rated": "PG-13",
@@ -61,6 +63,7 @@
     },
     {
       "id": 3,
+      "watched": false,
       "Title": "300",
       "Year": "2006",
       "Rated": "R",
@@ -89,6 +92,7 @@
     },
     {
       "id": 4,
+      "watched": false,
       "Title": "The Avengers",
       "Year": "2012",
       "Rated": "PG-13",
@@ -119,6 +123,7 @@
     },
     {
       "id": 5,
+      "watched": false,
       "Title": "The Wolf of Wall Street",
       "Year": "2013",
       "Rated": "R",
@@ -149,6 +154,7 @@
     },
     {
       "id": 6,
+      "watched": false,
       "Title": "Interstellar",
       "Year": "2014",
       "Rated": "PG-13",
@@ -179,6 +185,7 @@
     },
     {
       "id": 7,
+      "watched": false,
       "Title": "Game of Thrones",
       "Year": "2011–",
       "Rated": "TV-MA",
@@ -210,6 +217,7 @@
     },
     {
       "id": 8,
+      "watched": false,
       "Title": "Vikings",
       "Year": "2013–",
       "Rated": "TV-14",
