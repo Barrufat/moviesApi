@@ -24,8 +24,8 @@
     {
       "id": 4,
       "isWatched": false,
-      "Title": "The Avengers",
-      "Year": "2012",
+      "title": "The Avengers",
+      "year": "2012",
       "image": "https://i.ibb.co/Q9g9TDW/avengers.webp"
     },
     {
@@ -45,8 +45,8 @@
     {
       "id": 7,
       "isWatched": false,
-      "Title": "Game of Thrones",
-      "Year": "2011",
+      "title": "Game of Thrones",
+      "year": "2011",
       "image": "https://i.ibb.co/WPgJP81/got.webp"
     },
     {
